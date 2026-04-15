@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Eduardo Falcão 👋
 
-<!--
-**edufalcao/edufalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on **media technology, streaming platforms, and AI-driven engineering workflows**.
 
-Here are some ideas to get you started:
+I build scalable systems for **content ingestion, media operations, and delivery pipelines**, with a strong focus on **Node.js, AWS, MongoDB, Vue/Nuxt, and cloud-native architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 15+ years building software products and platforms
+- Experienced in high-throughput systems for digital media and streaming
+- Currently exploring **AI-assisted development**, **LLM integrations**, and **agentic workflows**
+- Based in **Fortaleza, Brazil**
+
+## Find me around the web
+
+- Website: [edufalcao.com](https://edufalcao.com)
+- LinkedIn: [edufalcao](https://www.linkedin.com/in/edufalcao)
+
+---
+
+> Crafting scalable media and streaming platforms — with AI-driven development at the core.
