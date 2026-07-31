@@ -1,21 +1,21 @@
-# Hi, I’m Eduardo Falcão 👋
+# Eduardo Falcão
 
-Senior Software Engineer focused on **media technology, streaming platforms, and AI-driven engineering workflows**.
+`$ whoami`
 
-I build scalable systems for **content ingestion, media operations, and delivery pipelines**, with a strong focus on **Node.js, AWS, MongoDB, Vue/Nuxt, and cloud-native architecture**.
+Senior Software Engineer, fifteen years in, the last nine on streaming infrastructure at scale. Content ingestion, metadata, and delivery pipelines at **Pluto TV (Paramount)** across 70M+ users in 20+ countries, now architecting a content operations platform at **Blu Digital Group (TransPerfect)**.
 
-## About me
+Currently pushing AI-first engineering practice there: multi-agent workflows and LLM tooling inside production content pipelines, and working out what that actually changes about how a team ships.
 
-- 15+ years building software products and platforms
-- Experienced in high-throughput systems for digital media and streaming
-- Currently exploring **AI-assisted development**, **LLM integrations**, and **agentic workflows**
-- Based in **Fortaleza, Brazil**
+`$ ls ~/projects`
 
-## Find me around the web
+| Project | What it does |
+|---|---|
+| **[30 Days of Agentic Coding](https://learning.edufalcao.com)** | A 30-lesson series on building agent systems, mental models through production. |
+| **[configspot](https://configspot.edufalcao.com)** | Semantic diffs for `.env`, JSON, YAML, TOML, INI. Risk detection and secret masking. |
+| **[diffspot](https://diffspot.app)** | Paste two texts, compare, export. No account, nothing uploaded. |
+| **[Kopi](https://github.com/edufalcao/kopi-app)** | macOS clipboard manager. Text and image history, pinning, global hotkey. |
+| **[Broom](https://github.com/edufalcao/broom-app)** | Reclaims disk space on macOS without phoning home. Free alternative to CleanMyMac. |
 
-- Website: [edufalcao.com](https://edufalcao.com)
-- LinkedIn: [edufalcao](https://www.linkedin.com/in/edufalcao)
+`$ cat contact.txt`
 
----
-
-> Crafting scalable media and streaming platforms — with AI-driven development at the core.
+[edufalcao.com](https://edufalcao.com) · [LinkedIn](https://www.linkedin.com/in/edufalcao) · [X](https://x.com/eduardo_falcao) · Fortaleza, Brazil
