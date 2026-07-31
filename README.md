@@ -10,7 +10,7 @@ Currently pushing AI-first engineering practice there: multi-agent workflows and
 
 | Project | What it does |
 |---|---|
-| **[learning hub](https://learning.edufalcao.com)** | Three free courses for working engineers, 90 lessons: agentic coding, AI-native systems design, and Kubernetes for web apps. |
+| **[learning hub](https://learning.edufalcao.com)** | Free, long-form courses for working engineers. Agent systems, AI-native architecture, Kubernetes. |
 | **[configspot](https://configspot.edufalcao.com)** | Semantic diffs for `.env`, JSON, YAML, TOML, INI. Risk detection and secret masking. |
 | **[diffspot](https://diffspot.app)** | Paste two texts, compare, export. No account, nothing uploaded. |
 | **[Kopi](https://github.com/edufalcao/kopi-app)** | macOS clipboard manager. Text and image history, pinning, global hotkey. |
