@@ -11,6 +11,7 @@ Currently pushing AI-first engineering practice there: multi-agent workflows and
 | Project | What it does |
 |---|---|
 | **[learning hub](https://learning.edufalcao.com)** | Free, long-form courses for working engineers. Agent systems, AI-native architecture, Kubernetes. |
+| **[ulanzi-deck-open](https://github.com/edufalcao/ulanzi-deck-open)** | Open-source control for Ulanzi D200 decks. |
 | **[configspot](https://configspot.edufalcao.com)** | Semantic diffs for `.env`, JSON, YAML, TOML, INI. Risk detection and secret masking. |
 | **[diffspot](https://diffspot.app)** | Paste two texts, compare, export. No account, nothing uploaded. |
 | **[Kopi](https://github.com/edufalcao/kopi-app)** | macOS clipboard manager. Text and image history, pinning, global hotkey. |
